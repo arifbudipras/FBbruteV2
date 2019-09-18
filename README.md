@@ -1,2 +1,11 @@
-# FBbruteV2
-Facebook Brute Force adalah metode untuk meretas password dengan mencoba semua kombinasi password yang ada pada wordlist, metode ini kemungkinan besar berhasil namun metode ini membutuhkan waktu yang lumayan lama
+    USE THE ORDERS BELOW
+
+$ apt update && apt update -y
+$ apt install git
+$ apt install python2
+$ git clone https://github.com/arifbudipras/FBbruteV2.git
+$ cd FBbruteV2
+$ chmod +x *
+$ python2 Fb.py
+    
+         GOOD LUCK !
